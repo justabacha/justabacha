@@ -80,7 +80,7 @@ A real-time messaging app focused on reliability and simplicity.
 ## ☕ Outside Code
 - Curious about systems & interfaces  
 - Enjoy breaking things just to understand them  
-- Coffee + late-night debugging = > *peace*
+- Coffee + late-night debugging = *peace*
 
 ---
 
