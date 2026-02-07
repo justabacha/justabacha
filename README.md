@@ -2,24 +2,21 @@
   <p>|Just•Abacha😎|</p>
 </div>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="180" valign="top">
-      <img src="https://i.postimg.cc/7Y9vpfY1/1000481158.jpg" 
-           width="160" 
-           height="160" 
-           style="border-radius: 50%; object-fit: cover; border: 4px solid #004d00; display: block;" 
-           alt="Phestone">
-    </td>
-    <td valign="top" style="padding-left: 20px;">
-      <h1>Hi, I'm Phestone 🚀</h1>
-      <p><b>Digital Twin Architect | Ghost Layer Specialist</b></p>
-      <p>📧 <a href="mailto:just1abacha@gmail.com">just1abacha@gmail.com</a></p>
-    </td>
-  </tr>
-</table>
+<div style="display: block; overflow: hidden; margin-bottom: 20px;">
+  <img src="https://i.postimg.cc/7Y9vpfY1/1000481158.jpg" 
+       align="left"
+       width="160" 
+       height="160" 
+       style="border-radius: 50% !important; object-fit: cover; border: 4px solid #004d00; margin-right: 20px;" 
+       alt="Phestone">
+  <div style="display: inline-block;">
+    <h1 style="border-bottom: none;">Hi, I'm Phestone 🚀</h1>
+    <p><b>Digital Twin Architect | Ghost Layer Specialist</b></p>
+    <p>📧 <a href="mailto:just1abacha@gmail.com">just1abacha@gmail.com</a></p>
+  </div>
+</div>
 
-<br>
+<br clear="left">
 
 ---
 
