@@ -10,7 +10,7 @@
 |*Frontend & Logic-Driven Web Developer*|  
 
 📧 **Email:** just1abacha@gmail.com  
-> 🧠 *Designing seamless interfaces with deep logic.*
+    > 🧠 *Designing seamless interfaces with deep logic.*
 
 <br><br><br>
 
