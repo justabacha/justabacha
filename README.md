@@ -1,13 +1,9 @@
+<p align="left">|Just•Abacha😎|</p>
+
 <p align="left">
-  |Just•Abacha😎|
+  <img src="https://i.postimg.cc/7Y9vpfY1/1000481158.jpg" width="160" />
 </p>
-
-<img src="https://i.postimg.cc/7Y9vpfY1/1000481158.jpg"
-     width="160"
-     align="left"
-     style="border-radius:50%;" />
-
-## Hi, I'm Phestone 🚀
+### Hi, I'm Phestone 🚀
 
 **Digital Twin Architect | Ghost Layer Specialist**  
 *Frontend & Logic-Driven Web Developer*  
@@ -15,7 +11,7 @@
 📧 **Email:** just1abacha@gmail.com  
 🧠 *Designing seamless interfaces with deep logic.*
 
-<br clear="left"/>
+<br><br><br>
 
 ---
 
