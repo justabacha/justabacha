@@ -4,13 +4,13 @@
      width="160"
      align="left" />
 
-## Hi, I'm Phestone 🚀
+### Hi, I'm Phestone 🚀
 
 **Digital Twin Architect | Ghost Layer Specialist**  
-> *Frontend & Logic-Driven Web Developer*
+*Frontend & Logic-Driven Web Developer*  
 
 📧 **Email:** just1abacha@gmail.com  
-🧠 *Designing seamless interfaces with deep logic.*
+> 🧠 *Designing seamless interfaces with deep logic.*
 
 <br><br><br>
 
@@ -80,7 +80,7 @@ A real-time messaging app focused on reliability and simplicity.
 ## ☕ Outside Code
 - Curious about systems & interfaces  
 - Enjoy breaking things just to understand them  
-- Late-night debugging hits different  
+- Coffee + late-night debugging = > *peace*
 
 ---
 
