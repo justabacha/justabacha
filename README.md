@@ -9,8 +9,9 @@
 **Digital Twin Architect | Ghost Layer Specialist**  
 |*Frontend & Logic-Driven Web Developer*|  
 
-📧 **Email:** just1abacha@gmail.com  
-    > 🧠 *Designing seamless interfaces with deep logic.*
+📧 **Email:** just1abacha@gmail.com
+
+> 🧠 *Designing seamless interfaces with deep logic.*
 
 <br><br><br>
 
