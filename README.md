@@ -63,15 +63,14 @@ A real-time messaging app focused on reliability and simplicity.
 
 ## 🏆 Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=justabacha&theme=tokyonight" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=justabacha&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
 </p>
-
 
 ---
 
 ## 📊 Stats & Vibes
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justabacha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=004d00&icon_color=004d00&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justabacha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
 </p>
 
 ---
