@@ -1,8 +1,9 @@
 <p align="left">|Just•Abacha😎|</p>
 
-<p align="left">
-  <img src="https://i.postimg.cc/7Y9vpfY1/1000481158.jpg" width="160" />
-</p>
+<img src="https://i.postimg.cc/7Y9vpfY1/1000481158.jpg"
+     width="160"
+     align="left" />
+
 ### Hi, I'm Phestone 🚀
 
 **Digital Twin Architect | Ghost Layer Specialist**  
