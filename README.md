@@ -4,10 +4,10 @@
      width="160"
      align="left" />
 
-### Hi, I'm Phestone 🚀
+## Hi, I'm Phestone 🚀
 
 **Digital Twin Architect | Ghost Layer Specialist**  
-*Frontend & Logic-Driven Web Developer*  
+> *Frontend & Logic-Driven Web Developer*
 
 📧 **Email:** just1abacha@gmail.com  
 🧠 *Designing seamless interfaces with deep logic.*
@@ -16,19 +16,48 @@
 
 ---
 
-## 🟢 Ghost Layer Interface Logic
-> High-contrast deep tones. Logic before noise.
+## 👻 The Ghost Layer
+I build the layer users never notice —  
+but always feel.
 
-| System Status | Meaning |
-| :-- | :-- |
-| **Operational** | App logic stable & running |
-| **Request Access** | Auth & permission layer |
+Clean logic.  
+Intentional interfaces.  
+Systems that don’t fight the user.
 
-<p>
-  <img src="https://img.shields.io/badge/vibe-004d00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/yes-004d00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/no-00008b?style=for-the-badge" />
-</p>
+---
+
+## 🟢 System Status
+- 🧠 Brain: shipping ideas
+- ⚙️ Codebase: evolving
+- 🌍 Network: expanding
+- ☕ Fuel: coffee
+
+---
+
+## 🧠 How I Think About Code
+- Logic first, UI second  
+- Clarity over cleverness  
+- Break systems into small, testable pieces  
+- Ship → observe → refine  
+
+---
+
+## 🚀 What I’m Building
+- 🌍 A real-time chat app connecting friends across borders  
+- 🧠 Focus on state flow, performance & clean architecture  
+- 🔒 Exploring authentication and real-time messaging logic  
+
+---
+
+## 🧩 Featured Project
+**Global Chat App**  
+A real-time messaging app focused on reliability and simplicity.
+
+- JavaScript • HTML • CSS  
+- Modular structure & readable logic  
+- Designed for scalability and learning  
+
+🔧 Status: actively building
 
 ---
 
@@ -48,12 +77,12 @@
 
 ---
 
-## 🚧 Current Focus
-- Building a **real-time chat app** connecting friends globally 🌍  
-- UI logic, state flow & performance tuning  
-- Clean, modular, scalable code
+## ☕ Outside Code
+- Curious about systems & interfaces  
+- Enjoy breaking things just to understand them  
+- Late-night debugging hits different  
 
 ---
 
-> *Ghost Layer isn’t design.*  
-> *It’s the logic users never see — but always feel.*
+> *Good interfaces are seen.*  
+> *Great ones are felt.*
