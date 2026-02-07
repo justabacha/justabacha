@@ -2,24 +2,20 @@
   |Just•Abacha😎|
 </p>
 
-# Hi, I'm Phestone 🚀
+<img src="https://i.postimg.cc/7Y9vpfY1/1000481158.jpg"
+     width="160"
+     align="left"
+     style="border-radius:50%;" />
 
-<table>
-<tr>
-<td width="170">
-  <img src="https://i.postimg.cc/7Y9vpfY1/1000481158.jpg" width="160" style="border-radius:50%;" />
-</td>
-<td>
+## Hi, I'm Phestone 🚀
 
 **Digital Twin Architect | Ghost Layer Specialist**  
-*Frontend & Logic-Driven Web Developer*
+*Frontend & Logic-Driven Web Developer*  
 
 📧 **Email:** just1abacha@gmail.com  
 🧠 *Designing seamless interfaces with deep logic.*
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
 ---
 
@@ -29,7 +25,7 @@
 | System Status | Meaning |
 | :-- | :-- |
 | **Operational** | App logic stable & running |
-| **Request Access** | Auth / permission layer |
+| **Request Access** | Auth & permission layer |
 
 <p>
   <img src="https://img.shields.io/badge/vibe-004d00?style=for-the-badge" />
@@ -56,11 +52,11 @@
 ---
 
 ## 🚧 Current Focus
-- Building a **real-time chat app** that connects friends globally 🌍  
-- Polishing UI logic, state flow & performance  
-- Keeping code clean, modular, and scalable
+- Building a **real-time chat app** connecting friends globally 🌍  
+- UI logic, state flow & performance tuning  
+- Clean, modular, scalable code
 
 ---
 
-> *Ghost Layer isn’t design.  
-> It’s the logic users never see — but always feel.*
+> *Ghost Layer isn’t design.*  
+> *It’s the logic users never see — but always feel.*
