@@ -1,6 +1,6 @@
 <p align="left">|Just•Abacha😎|</p>
 
-<img src="https://i.postimg.cc/7Y9vpfY1/1000481158.jpg"
+<img src="1000481325-modified.png"
      width="160"
      align="left" />
 
