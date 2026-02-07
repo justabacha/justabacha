@@ -61,7 +61,7 @@ A real-time messaging app focused on reliability and simplicity.
 
 ---
 
-##🏆Trophies
+## 🏆 Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=justabacha&theme=tokyonight" alt="trophies" />
 </p>
